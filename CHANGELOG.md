@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/smithjke/sr-test/compare/v1.0.5...v1.1.0) (2022-10-20)
+
+
+### Features
+
+* add version sync ([aabefcf](https://github.com/smithjke/sr-test/commit/aabefcf184d995841eb7c6f40f2b7af63644ea06))
+
 ## [1.0.5](https://github.com/smithjke/sr-test/compare/v1.0.4...v1.0.5) (2022-10-20)
 
 
