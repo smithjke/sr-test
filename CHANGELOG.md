@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/smithjke/sr-test/compare/v1.0.4...v1.0.5) (2022-10-20)
+
+
+### Bug Fixes
+
+* add cat changelog ([e2e3b59](https://github.com/smithjke/sr-test/commit/e2e3b59812477ab57a7a711cd44fbcea36f1d32c))
+
 ## [1.0.4](https://github.com/smithjke/sr-test/compare/v1.0.3...v1.0.4) (2022-10-20)
 
 
