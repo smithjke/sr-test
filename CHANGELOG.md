@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/smithjke/sr-test/compare/v1.1.1...v1.2.0) (2022-10-20)
+
+
+### Bug Fixes
+
+* change number ([ee3a6c9](https://github.com/smithjke/sr-test/commit/ee3a6c9737f925bcc32bc50eb6a19278e63db1ed))
+
+
+### Features
+
+* zdarova denis bleat ([ce6697e](https://github.com/smithjke/sr-test/commit/ce6697e3f432b06f030c00c9576e7e053448f6d3))
+
 ## [1.1.1](https://github.com/smithjke/sr-test/compare/v1.1.0...v1.1.1) (2022-10-20)
 
 
