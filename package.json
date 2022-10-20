@@ -27,6 +27,13 @@
     "url": "https://github.com/smithjke/sr-test/issues"
   },
   "homepage": "https://github.com/smithjke/sr-test#readme",
+  "release": {
+    "branches": ["master", "next"],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator"
+    ]
+  },
   "devDependencies": {
     "semantic-release": "^19.0.5",
     "semantic-release-cli": "^5.4.4",
