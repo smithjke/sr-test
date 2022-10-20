@@ -1,0 +1,29 @@
+{
+  "name": "sr-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "dist/**/!(*.tsbuildinfo)"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithjke/sr-test.git"
+  },
+  "author": "smithjke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithjke/sr-test/issues"
+  },
+  "homepage": "https://github.com/smithjke/sr-test#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
