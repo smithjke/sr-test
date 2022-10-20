@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/smithjke/sr-test#readme",
   "devDependencies": {
+    "semantic-release": "^19.0.5",
     "typescript": "^4.8.4"
   }
 }
