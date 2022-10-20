@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/smithjke/sr-test/compare/v1.2.0...v1.2.1) (2022-10-20)
+
+
+### Bug Fixes
+
+* export releaserc ([e0ae925](https://github.com/smithjke/sr-test/commit/e0ae9253bf792b78c9745b3a508319773ecc2871))
+
 # [1.2.0](https://github.com/smithjke/sr-test/compare/v1.1.1...v1.2.0) (2022-10-20)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "sr-test",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
