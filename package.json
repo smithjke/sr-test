@@ -1,6 +1,6 @@
 {
   "name": "sr-test",
-  "version": "0.3.8-0",
+  "version": "0.4.0",
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
@@ -28,7 +28,10 @@
   },
   "homepage": "https://github.com/smithjke/sr-test#readme",
   "release": {
-    "branches": ["master", "next"],
+    "branches": [
+      "master",
+      "next"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator"
