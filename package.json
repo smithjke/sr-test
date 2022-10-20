@@ -1,6 +1,6 @@
 {
   "name": "sr-test",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
@@ -11,6 +11,9 @@
   ],
   "scripts": {
     "build": "tsc",
+    "up:major": "yarn version --major && git push && git push --tags",
+    "up:minor": "yarn version --minor && git push && git push --tags",
+    "up:patch": "yarn version --patch && git push && git push --tags",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
