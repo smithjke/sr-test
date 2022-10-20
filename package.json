@@ -14,6 +14,7 @@
     "up:major": "yarn version --major && git push && git push --tags",
     "up:minor": "yarn version --minor && git push && git push --tags",
     "up:patch": "yarn version --patch && git push && git push --tags",
+    "semantic-release": "semantic-release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,6 +29,7 @@
   "homepage": "https://github.com/smithjke/sr-test#readme",
   "devDependencies": {
     "semantic-release": "^19.0.5",
+    "semantic-release-cli": "^5.4.4",
     "typescript": "^4.8.4"
   }
 }
