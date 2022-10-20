@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/smithjke/sr-test/compare/v1.1.0...v1.1.1) (2022-10-20)
+
+
+### Bug Fixes
+
+* add npm to sr ([9ee760c](https://github.com/smithjke/sr-test/commit/9ee760c8fe6ae5c050d621fcfb3722dedf420bc2))
+* add sr npm options ([4c1ac89](https://github.com/smithjke/sr-test/commit/4c1ac89d47870b8226a3de648df92deb0acaaac0))
+
 # [1.1.0](https://github.com/smithjke/sr-test/compare/v1.0.5...v1.1.0) (2022-10-20)
 
 
