@@ -41,12 +41,18 @@
           "changelogFile": "CHANGELOG.md"
         }
       ],
-      "@semantic-release/npm",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": false
+        }
+      ],
       [
         "@semantic-release/git",
         {
           "assets": [
-            "CHANGELOG.md"
+            "CHANGELOG.md",
+            "package.json"
           ],
           "message": "${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}"
         }
