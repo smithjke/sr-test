@@ -1,4 +1,5 @@
-const branch = process.env.CI_COMMIT_BRANCH;
+const ref = process.env.GITHUB_REF;
+const branch = ref.split('/').pop();
 
 module.exports = {
   branches: [
