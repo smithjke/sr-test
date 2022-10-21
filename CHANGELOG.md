@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/smithjke/sr-test/compare/v1.4.0...v1.5.0) (2022-10-21)
+
+
+### Features
+
+* add dev ([773c27c](https://github.com/smithjke/sr-test/commit/773c27cbb3691c579a3140f2e8a7d57e29326805))
+
 # [1.5.0-dev.1](https://github.com/smithjke/sr-test/compare/v1.4.0...v1.5.0-dev.1) (2022-10-21)
 
 
