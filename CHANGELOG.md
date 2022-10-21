@@ -1,3 +1,11 @@
+# [1.4.0-beta.1](https://github.com/smithjke/sr-test/compare/v1.3.0...v1.4.0-beta.1) (2022-10-21)
+
+
+### Features
+
+* add beta changes ([df7f18e](https://github.com/smithjke/sr-test/commit/df7f18ecf76e52f01f7ee3fa44c10cf254a9a480))
+* add beta workflow ([d831192](https://github.com/smithjke/sr-test/commit/d8311926f83a6e95a452e371209b3b8c05cf9b6f))
+
 # [1.3.0](https://github.com/smithjke/sr-test/compare/v1.2.1...v1.3.0) (2022-10-21)
 
 
