@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/smithjke/sr-test/compare/v1.6.2...v1.6.3) (2022-10-21)
+
+
+### Bug Fixes
+
+* add get plugins function to releaserc ([185c82b](https://github.com/smithjke/sr-test/commit/185c82b4d8430690e81fe3b6c20c16cb9a9ba48d))
+
 # [1.6.0](https://github.com/smithjke/sr-test/compare/v1.5.0...v1.6.0) (2022-10-21)
 
 
