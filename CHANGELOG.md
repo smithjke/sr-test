@@ -1,3 +1,17 @@
+# [1.6.0-beta.1](https://github.com/smithjke/sr-test/compare/v1.5.0...v1.6.0-beta.1) (2022-10-21)
+
+
+### Features
+
+* add beta changes ([df7f18e](https://github.com/smithjke/sr-test/commit/df7f18ecf76e52f01f7ee3fa44c10cf254a9a480))
+
+# [1.4.0-beta.1](https://github.com/smithjke/sr-test/compare/v1.3.0...v1.4.0-beta.1) (2022-10-21)
+
+
+### Features
+
+* add beta changes ([df7f18e](https://github.com/smithjke/sr-test/commit/df7f18ecf76e52f01f7ee3fa44c10cf254a9a480))
+
 # [1.5.0](https://github.com/smithjke/sr-test/compare/v1.4.0...v1.5.0) (2022-10-21)
 
 
