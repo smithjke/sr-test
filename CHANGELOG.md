@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/smithjke/sr-test/compare/v1.2.1...v1.3.0) (2022-10-21)
+
+
+### Bug Fixes
+
+* add number ([d7d1db4](https://github.com/smithjke/sr-test/commit/d7d1db43f89532928e50a0c2ec654fe3f0ce91a0))
+
+
+### Features
+
+* add three ([8e19a37](https://github.com/smithjke/sr-test/commit/8e19a370ecf4f66dddbba5dc202267187a6c4717))
+
 ## [1.2.1](https://github.com/smithjke/sr-test/compare/v1.2.0...v1.2.1) (2022-10-20)
 
 
