@@ -4,6 +4,26 @@
 ### Features
 
 * add beta changes ([df7f18e](https://github.com/smithjke/sr-test/commit/df7f18ecf76e52f01f7ee3fa44c10cf254a9a480))
+
+# [1.5.0](https://github.com/smithjke/sr-test/compare/v1.4.0...v1.5.0) (2022-10-21)
+
+
+### Features
+
+* add dev ([773c27c](https://github.com/smithjke/sr-test/commit/773c27cbb3691c579a3140f2e8a7d57e29326805))
+
+# [1.5.0-dev.1](https://github.com/smithjke/sr-test/compare/v1.4.0...v1.5.0-dev.1) (2022-10-21)
+
+
+### Features
+
+* add dev ([773c27c](https://github.com/smithjke/sr-test/commit/773c27cbb3691c579a3140f2e8a7d57e29326805))
+
+# [1.4.0](https://github.com/smithjke/sr-test/compare/v1.3.0...v1.4.0) (2022-10-21)
+
+
+### Features
+
 * add beta workflow ([d831192](https://github.com/smithjke/sr-test/commit/d8311926f83a6e95a452e371209b3b8c05cf9b6f))
 
 # [1.3.0](https://github.com/smithjke/sr-test/compare/v1.2.1...v1.3.0) (2022-10-21)

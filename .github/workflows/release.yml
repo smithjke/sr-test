@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - beta
+      - dev
 jobs:
   release:
     name: Release
