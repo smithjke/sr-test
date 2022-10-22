@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/smithjke/sr-test/compare/v1.6.3...v1.6.4) (2022-10-22)
+
+
+### Bug Fixes
+
+* change code in releaserc ([b1b6bee](https://github.com/smithjke/sr-test/commit/b1b6beec9026e8f1a0b32f28864d92e0648f72b1))
+
 ## [1.6.3](https://github.com/smithjke/sr-test/compare/v1.6.2...v1.6.3) (2022-10-21)
 
 
