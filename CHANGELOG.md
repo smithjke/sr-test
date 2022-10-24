@@ -1,3 +1,10 @@
+## [1.6.5](https://github.com/smithjke/sr-test/compare/v1.6.4...v1.6.5) (2022-10-24)
+
+
+### Bug Fixes
+
+* add pulish wokrflow ([3dca33b](https://github.com/smithjke/sr-test/commit/3dca33bf92d2be2164b3b4e28a0c081497c748c7))
+
 ## [1.6.4](https://github.com/smithjke/sr-test/compare/v1.6.3...v1.6.4) (2022-10-22)
 
 
