@@ -1,3 +1,14 @@
+## [1.7.2](https://github.com/smithjke/sr-test/compare/v1.7.1...v1.7.2) (2022-10-25)
+
+
+### Bug Fixes
+
+* add 3 ([4823b90](https://github.com/smithjke/sr-test/commit/4823b90b33d4c868d4c6dc8940a1847796f039f9))
+* add another 3 ([26f2f87](https://github.com/smithjke/sr-test/commit/26f2f8779c64e5728fd7b460268c8f31a32434f4))
+* add dev tag to registry ([959021a](https://github.com/smithjke/sr-test/commit/959021a839830f92781e1f631910430b912fa3fa))
+* change dev tag to beta ([64d4b99](https://github.com/smithjke/sr-test/commit/64d4b99a63d2103d908d1725bfbbe51bc899406b))
+* remove tag beta ([d696e98](https://github.com/smithjke/sr-test/commit/d696e982fcb294fae879b4549130df526a7f2106))
+
 ## [1.7.1](https://github.com/smithjke/sr-test/compare/v1.7.0...v1.7.1) (2022-10-25)
 
 
