@@ -32,7 +32,7 @@ jobs:
       - name: Build
         run: yarn build
       - name: Publish
-        run: yarn publish --tag dev
+        run: yarn publish --tag beta
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
