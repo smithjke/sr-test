@@ -1,3 +1,11 @@
+## [1.6.6](https://github.com/smithjke/sr-test/compare/v1.6.5...v1.6.6) (2022-10-25)
+
+
+### Bug Fixes
+
+* add publish to release ([b198597](https://github.com/smithjke/sr-test/commit/b198597709fb4cdd8bcea52409bf33ae37679ae3))
+* change release wokrflow ([cd338c0](https://github.com/smithjke/sr-test/commit/cd338c0f5b9aff54164a9867ee3daac5ee95ff00))
+
 ## [1.6.5](https://github.com/smithjke/sr-test/compare/v1.6.4...v1.6.5) (2022-10-24)
 
 
