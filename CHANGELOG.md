@@ -1,3 +1,11 @@
+## [1.7.1](https://github.com/smithjke/sr-test/compare/v1.7.0...v1.7.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* install deps before start semantic release ([8ec148e](https://github.com/smithjke/sr-test/commit/8ec148e7b28fc4696f9ad834ea7a299cf4971bc7))
+* join workflows ([0b4f040](https://github.com/smithjke/sr-test/commit/0b4f0406107830bd8090dfe5da809ee8bb891cb4))
+
 # [1.7.0](https://github.com/smithjke/sr-test/compare/v1.6.6...v1.7.0) (2022-10-25)
 
 
