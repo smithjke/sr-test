@@ -1,6 +1,6 @@
 {
   "name": "@smithjke/sr-test",
-  "version": "1.7.2-dev.2",
+  "version": "1.7.2-dev.3",
   "description": "",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
