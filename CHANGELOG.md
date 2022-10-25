@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/smithjke/sr-test/compare/v1.6.6...v1.7.0) (2022-10-25)
+
+
+### Features
+
+* add two ([839bf7b](https://github.com/smithjke/sr-test/commit/839bf7b3c16b5ee9ac17e3f5204738e70931846b))
+
 ## [1.6.6](https://github.com/smithjke/sr-test/compare/v1.6.5...v1.6.6) (2022-10-25)
 
 
