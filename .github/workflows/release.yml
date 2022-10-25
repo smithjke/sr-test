@@ -21,14 +21,14 @@ jobs:
           node-version: 'lts/*'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@smithjke'
-      - name: Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release
       - name: Install dependencies
         run: yarn
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Release
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build
         run: yarn build
       - name: Publish
