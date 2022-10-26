@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/smithjke/sr-test/compare/v1.7.7...v1.8.0) (2022-10-26)
+
+
+### Bug Fixes
+
+* add 2 symbol ([0695422](https://github.com/smithjke/sr-test/commit/0695422518d80c8d78fbe02c4730c538695c8fda))
+* change 3 row ([120a9f8](https://github.com/smithjke/sr-test/commit/120a9f8def90599a69e1b197c23815f4ba9a09dc))
+
+
+### Features
+
+* add 4 ([89d5c66](https://github.com/smithjke/sr-test/commit/89d5c660942a566834bcfc5eb317d86e07d670cc))
+
 ## [1.7.7](https://github.com/smithjke/sr-test/compare/v1.7.6...v1.7.7) (2022-10-26)
 
 
