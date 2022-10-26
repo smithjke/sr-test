@@ -1,3 +1,10 @@
+## [1.7.5](https://github.com/smithjke/sr-test/compare/v1.7.4...v1.7.5) (2022-10-26)
+
+
+### Bug Fixes
+
+* add second cat ([382b00e](https://github.com/smithjke/sr-test/commit/382b00ebe8b2f37c00ffc88302cf7dd75b3c630e))
+
 ## [1.7.4](https://github.com/smithjke/sr-test/compare/v1.7.3...v1.7.4) (2022-10-26)
 
 
