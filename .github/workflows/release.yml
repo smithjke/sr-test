@@ -30,6 +30,8 @@ jobs:
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Cat Package JSON
+        run: cat package.json
 #      - name: Build
 #        run: yarn build
 #      - name: Publish
