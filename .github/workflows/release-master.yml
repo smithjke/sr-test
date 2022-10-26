@@ -1,15 +1,13 @@
-name: Release
+name: Release Master
 
 on:
   push:
     branches:
       - master
-      - beta
-      - dev
 
 jobs:
   release:
-    name: Release and Publish
+    name: Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,34 +28,22 @@ jobs:
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Cat Package JSON
-        run: cat package.json
-#      - name: Build
-#        run: yarn build
-#      - name: Publish
-#        run: yarn publish
-#        env:
-#          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   publish:
     name: Publish
     needs: release
     runs-on: ubuntu-latest
-#    permissions:
-#      contents: read
-#      packages: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          ref: master
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 'lts/*'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@smithjke'
-      - name: Cat Package JSON
-        run: cat package.json
       - name: Install dependencies
         run: yarn
         env:
