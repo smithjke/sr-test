@@ -1,3 +1,10 @@
+## [1.7.7](https://github.com/smithjke/sr-test/compare/v1.7.6...v1.7.7) (2022-10-26)
+
+
+### Bug Fixes
+
+* add test wokrflow ([2f51646](https://github.com/smithjke/sr-test/commit/2f51646dcba4662f3274b5eb80f758f73a38b30c))
+
 ## [1.7.6](https://github.com/smithjke/sr-test/compare/v1.7.5...v1.7.6) (2022-10-26)
 
 
