@@ -1,3 +1,10 @@
+## [1.7.4](https://github.com/smithjke/sr-test/compare/v1.7.3...v1.7.4) (2022-10-26)
+
+
+### Bug Fixes
+
+* add 1 ([9c52512](https://github.com/smithjke/sr-test/commit/9c52512ddb28ea6169bddd47fe590537c490af6c))
+
 ## [1.7.3](https://github.com/smithjke/sr-test/compare/v1.7.2...v1.7.3) (2022-10-26)
 
 
